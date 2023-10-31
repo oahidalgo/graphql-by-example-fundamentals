@@ -1,0 +1,19 @@
+# .gitignore
+
+# Ignore node_modules directory
+SERVER/node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore the .vscode directory
+.vscode/
+
+# Ignore environment settings
+.env
+
+# Ignore the build directory
+dist/
+
+# Ignore the client/node_modules directory
+client/node_modules/
